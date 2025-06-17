@@ -1,2 +1,5 @@
-* -text
-* -text
+# put these in .gitattributes file
+*.js binary
+*.json binary
+*.css binary
+*.html binary

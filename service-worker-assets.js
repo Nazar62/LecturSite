@@ -17,8 +17,8 @@
       "url": "_framework\/Blazored.LocalStorage.12n6dz54qr.wasm.br"
     },
     {
-      "hash": "sha256-Tj5OLs\/KwPB+I\/BD1QUJYdS3YrwYAIlVMZqEatcsD7I=",
-      "url": "_framework\/Lectur.Site.pyysgpu2cu.wasm.br"
+      "hash": "sha256-bSY93aCxTVmzO1VdXlAEIORvgU6VhJn3qLmwzHj72Ag=",
+      "url": "_framework\/Lectur.Site.y19q863b2g.wasm.br"
     },
     {
       "hash": "sha256-zZOarSow\/5AzmIvJodCW3cn+8FKzFmr075vG6QBIfZY=",
@@ -325,7 +325,7 @@
       "url": "_framework\/YoutubeTranscriptApi.ighbss29g4.wasm.br"
     },
     {
-      "hash": "sha256-fv7kxZcPf1mQlulQ2VaZyVszF\/BBcA+Hc7URMRAJ6Eo=",
+      "hash": "sha256-TmaeOK\/LzKEeED+atEdHmCmJjHlkn2eT50IQybbUVG8=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -369,7 +369,7 @@
       "url": "appSettings.json.br"
     },
     {
-      "hash": "sha256-bxnrp22efjtkh60vEYQ0pWYpP0Ggpn2kIfK1LLTsI7k=",
+      "hash": "sha256-sq2auONGEsxB4bgNyc24OaWFrQDLodwZkP6u02yliRg=",
       "url": "css\/app.css.br"
     },
     {
@@ -385,7 +385,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-SvLtOSGkN+zXhlE1H3q4qtwz61IyQKi\/lhBj+HQ\/qLI=",
+      "hash": "sha256-TXSBJ1isKs80Ftt+GF6rGO4Qt1sQPlQQ5Br+kTu4JG8=",
       "url": "index.html"
     },
     {
@@ -581,5 +581,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "8kNQcVxZ"
+  "version": "+8OlSQdP"
 };

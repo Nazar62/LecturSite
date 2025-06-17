@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "Lectur.Site",
   "resources": {
-    "hash": "sha256-8F6ygi0bCu5QAwMqj7v06nhqIjR+WTPbVT7Wp55QTEE=",
+    "hash": "sha256-9WNsiBAM4ezPoC3fPB5jPjkm4+ibtEsPIRr93XxjyAg=",
     "fingerprinting": {
       "Aliencube.YouTubeSubtitlesExtractor.lsx4sew4cm.wasm": "Aliencube.YouTubeSubtitlesExtractor.wasm",
       "AngleSharp.up7648hgwu.wasm": "AngleSharp.wasm",
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
-      "Lectur.Site.pyysgpu2cu.wasm": "Lectur.Site.wasm",
+      "Lectur.Site.y19q863b2g.wasm": "Lectur.Site.wasm",
       "Microsoft.AspNetCore.Authorization.z6fq0m7wgh.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.Authorization.gtg2riohx5.wasm": "Microsoft.AspNetCore.Components.Authorization.wasm",
       "Microsoft.AspNetCore.Components.sl3pxbktvi.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -114,7 +114,7 @@
       "Aliencube.YouTubeSubtitlesExtractor.lsx4sew4cm.wasm": "sha256-6+cqjPBvvNvjju/dR0myA9rVBeZD6uJ/cya5VPBbVp0=",
       "AngleSharp.up7648hgwu.wasm": "sha256-kiD87S/tghFUydyHWNfGo1G3AnugOsqK5Y55LSHS43w=",
       "Blazored.LocalStorage.12n6dz54qr.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "Lectur.Site.pyysgpu2cu.wasm": "sha256-ARS9se1u5+4BtRZL5PFRlhWmjMcvQtSG461PlRw4p7g=",
+      "Lectur.Site.y19q863b2g.wasm": "sha256-VoAbHyIerixu2Zyhv7/srIE3M1Q2u8U0Ja7RiubXXV4=",
       "Microsoft.AspNetCore.Authorization.z6fq0m7wgh.wasm": "sha256-a1eim6U4GsteM+snoRqVKLFGQPr39whnX6+BTsH0nJw=",
       "Microsoft.AspNetCore.Components.Authorization.gtg2riohx5.wasm": "sha256-XPuZIdRQFsu+fnbuBLWsvajexpgKtYmByJAakp7P0bs=",
       "Microsoft.AspNetCore.Components.sl3pxbktvi.wasm": "sha256-gCsWYeSuR1g1zoObfPGuii2CQ5qWY3as/EC3T4fTQ5w=",

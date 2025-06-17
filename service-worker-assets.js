@@ -17,8 +17,8 @@
       "url": "_framework\/Blazored.LocalStorage.12n6dz54qr.wasm.br"
     },
     {
-      "hash": "sha256-6c2LC6C0KjEeQxxKza3U3QuM6\/Djg+dF\/7TnnY0Epa4=",
-      "url": "_framework\/Lectur.Site.r51yoypqwu.wasm.br"
+      "hash": "sha256-IFrJCAQfrHcYFrDDP5wvXwyGDavqhwzywR1VMXupzbQ=",
+      "url": "_framework\/Lectur.Site.jghcr5z8a8.wasm.br"
     },
     {
       "hash": "sha256-zZOarSow\/5AzmIvJodCW3cn+8FKzFmr075vG6QBIfZY=",
@@ -325,7 +325,7 @@
       "url": "_framework\/YoutubeTranscriptApi.ighbss29g4.wasm.br"
     },
     {
-      "hash": "sha256-yJ7DL+R8ECvm6i0twnemEnO17gJJwd9f0ySl8hUuMVE=",
+      "hash": "sha256-svTER5LD\/xueWR3m8n9AWBuLg0sTUgEbzNjQ1SyrNYg=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -581,5 +581,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "IoDyTTfV"
+  "version": "1ik0w3fh"
 };
